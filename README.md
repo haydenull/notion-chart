@@ -10,7 +10,7 @@ Transform Notion database into a chart image easily with Notion-Chart. Currently
 
 ### Vercel deployed
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fhaydenull%2Fnotion-chart&env=NOTION_KEY&project-name=notion-chart&repository-name=notion-chart)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?repository-url=https%3A%2F%2Fgithub.com%2Fhaydenull%2Fnotion-chart&env=NOTION_KEY&project-name=notion-chart&repository-name=notion-chart)
 
 1. Fork this repository. 
 2. Click the "Vercel Deploy" button. 
